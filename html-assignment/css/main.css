@@ -32,3 +32,11 @@ header,footer{
     background: rgb(214, 193, 193);
     border: 2px solid #745c5c;
 }
+
+a:hover {
+    background-color: rgb(157, 32, 18);
+}
+
+a:focus {
+        background-color: rgb(115, 11, 11);
+}
