@@ -24,11 +24,11 @@ header,footer{
     background: #3f7373;
 }
 
-.linknote{
+.link{
     text-decoration: none;
 }
 
-.linknote{
+.link{
     background: rgb(214, 193, 193);
     border: 2px solid #745c5c;
 }
