@@ -19,3 +19,7 @@ header,footer{
 .hobbies{
     list-style-type:square ;
 }
+
+.hobbies li:nth-child(odd){
+    background: #3f7373;
+}
