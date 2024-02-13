@@ -11,3 +11,7 @@ header,footer{
 .site-title{
     color:#732B1A
 }
+
+#my-imagine{
+    box-shadow: 0 0 2px 1px black;  
+}
