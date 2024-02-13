@@ -27,3 +27,8 @@ header,footer{
 .linknote{
     text-decoration: none;
 }
+
+.linknote{
+    background: rgb(214, 193, 193);
+    border: 2px solid #745c5c;
+}
