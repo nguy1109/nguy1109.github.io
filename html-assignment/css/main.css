@@ -4,6 +4,6 @@ body{
     font-size: 18px;
 }
 
-.header,.footer{
-    background-color: antiquewhite;
+header,footer{
+    background-color: rgb(231, 200, 161);
 }
