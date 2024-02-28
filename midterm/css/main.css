@@ -1,0 +1,11 @@
+/* this is a css comment */
+header {
+    width: 100%;
+    background-color:#7bb1af;
+    padding: 2em;
+    color:white;
+    position: fixed;
+    z-index: 2;
+    left: 0;
+    text-align: center;
+ }
