@@ -9,3 +9,14 @@ header {
     left: 0;
     text-align: center;
  }
+
+nav ul li {
+    display: inline-block;
+    width: 100px;
+    border-right: 1px dotted black;
+    text-align: center;
+}
+
+nav ul li:last-child {
+    border-right: none;
+}
