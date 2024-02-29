@@ -1,7 +1,7 @@
 /* this is a css comment */
 .title {
     width: 100%;
-    padding: 30px 15px; /* adjust padding as needed */
+    padding: 70px 20px 10px 20px; /* adjust padding as needed */
     color:white;
     position: absolute;
     text-align: center;
@@ -13,6 +13,7 @@
     background-position: relative ;
  }
 
+/* ensure nav is the center and balanced */
 nav ul li {
     color:black;
     display: inline-block;
@@ -20,7 +21,8 @@ nav ul li {
     border-right: 1px solid black;
     text-align: center;
 }
-
+/*no border at the end*/
 nav ul li:last-child {
     border-right: none;
 }
+
