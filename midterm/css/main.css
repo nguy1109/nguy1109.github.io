@@ -3,11 +3,12 @@ header {
     width: 100%;
     padding: 1em;
     color:white;
-    position:absolute;
+    position: absolute;
     z-index: 2;
     left: 0;
     text-align: center;
     background-image: url("lone-starfish-wide.jpg");
+    background-size:cover;
  }
 
 nav ul li {
