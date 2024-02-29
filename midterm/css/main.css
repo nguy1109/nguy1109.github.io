@@ -1,14 +1,18 @@
 /* this is a css comment */
-header {
+.title {
     width: 100%;
     padding: 1em;
     color:white;
-    position: absolute;
+    position:absolute;
     z-index: 2;
     left: 0;
     text-align: center;
+}
+
+.cover {
     background-image: url("lone-starfish-wide.jpg");
-    background-size:cover;
+    background-size: cover;
+    background-position: center ;
  }
 
 nav ul li {
