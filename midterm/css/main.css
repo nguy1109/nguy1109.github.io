@@ -1,5 +1,6 @@
 /* this is a css comment */
 .title {
+    font-size: 40px;
     width: 100%;
     padding: 70px 20px 10px 20px; /* adjust padding as needed */
     color:white;
@@ -26,3 +27,6 @@ nav ul li:last-child {
     border-right: none;
 }
 
+h2 {
+    font-size: 20px;
+}
