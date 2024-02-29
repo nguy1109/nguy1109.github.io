@@ -1,17 +1,15 @@
 /* this is a css comment */
 .title {
     width: 100%;
-    padding: 4em;
+    padding: 30px 15px;
     color:white;
     position: absolute;
     text-align: center;
-
 }
 
 .cover {
+    display: block; /*the image takes up its full container's width */
     width: 100%;
-    background-image: url("lone-starfish-wide.jpg");
-    background-size: cover;
     background-position: relative ;
  }
 
