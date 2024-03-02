@@ -33,5 +33,10 @@ h2 {
 }
 
 /* image is small and on the left, text on the right */
+#avatar {
+    display: block;
+    width: 25%;
+    background-position: relative ;
+}
 
 
