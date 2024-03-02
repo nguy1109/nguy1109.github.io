@@ -22,7 +22,8 @@ nav ul li {
     border-right: 1px solid black;
     text-align: center;
 }
-/*no border at the end*/
+
+/*no border at the end in the nav*/
 nav ul li:last-child {
     border-right: none;
 }
@@ -30,3 +31,6 @@ nav ul li:last-child {
 h2 {
     font-size: 20px;
 }
+
+/* image is small and on the left, text on the right */
+
