@@ -8,7 +8,7 @@
     text-align: center;
 }
 
-.cover {
+#cover {
     display: block; /*the image takes up its full container's width */
     width: 100%;
     background-position: relative ;
@@ -33,4 +33,5 @@ h2 {
 }
 
 /* image is small and on the left, text on the right */
+
 
