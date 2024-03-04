@@ -45,7 +45,7 @@ h2 {
 /* box model around the form, not including the title contact */
 /* scale the height to fit */
 form {
-    width: 320px;
+    width:fit-content;
     height: 300px;
     padding: 10px;
     border: 5px solid rgb(0, 0, 0);
