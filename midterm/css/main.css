@@ -3,7 +3,7 @@ body {
     background-color: rgb(224, 190, 212);
 }
 
-.title {
+h1 {
     font-size: 40px;
     width: 100%;
     padding: 70px 20px 10px 20px; /* adjust padding as needed */
