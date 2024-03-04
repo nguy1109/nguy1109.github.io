@@ -52,6 +52,7 @@ form {
     box-sizing:border-box;
     padding: 10px;
     border: 1.5px solid black;
+    line-height: 1.5;
 }
 
 footer {
