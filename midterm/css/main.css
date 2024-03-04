@@ -4,9 +4,9 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 35px;
     width: 100%;
-    padding: 70px 20px 10px 20px; /* adjust padding as needed */
+    padding: 70px 10px 10px 10px; /* adjust padding as needed */
     color:white;
     position: absolute;
     text-align: center;
