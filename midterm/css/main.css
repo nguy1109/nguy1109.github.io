@@ -46,10 +46,8 @@ h2 {
 /* box model around the form */
 /* scale the height width to fit */
 form {
-    display:block;
-    width: 1100px;
-    height: 220px;
     /* box model properties */
+    box-sizing: inherit;
     padding: 13px;
     border: 1.5px solid black;
     margin-bottom: 1rem;
