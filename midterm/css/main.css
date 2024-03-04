@@ -35,15 +35,17 @@ nav ul li:last-child {
 h2 {
     font-size: 20px;
 }
+.first {
+    display: flex;
+}
 
 /* image is small and on the left, text on the right */
 #avatar {
-    display: block;
     width: 25%;
     background-position: relative ;
 }
 
-/* box model around the form */
+/* box around the form */
 /* scale the height width to fit */
 form {
     margin-top: 1rem;
