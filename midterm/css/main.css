@@ -42,15 +42,17 @@ h2 {
     width: 25%;
     background-position: relative ;
 }
+
 /* box model around the form, not including the title contact */
 /* scale the height to fit */
 form {
     display:block;
     width: 100%;
     height: 220px;
+    /* box properties */
     padding: 20px;
     border: 1.5px solid rgb(0, 0, 0);
-    margin: 0%;
+    margin-bottom: 1rem; 
 }
 
 
