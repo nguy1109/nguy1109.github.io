@@ -46,11 +46,12 @@ h2 {
 /* box model around the form */
 /* scale the height width to fit */
 form {
-    /* box model properties */
-    box-sizing:border-box;
-    padding: 13px;
-    border: 1.5px solid black;
+    margin-top: 1rem;
     margin-bottom: 1rem;
+    /* box properties */
+    box-sizing:border-box;
+    padding: 10px;
+    border: 1.5px solid black;
 }
 
 
