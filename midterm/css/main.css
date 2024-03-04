@@ -42,7 +42,8 @@ h2 {
     width: 25%;
     background-position: relative ;
 }
-
+/* box model around the form, not including the title contact */
+/* scale the height to fit */
 form {
     width: 320px;
     height: 300px;
