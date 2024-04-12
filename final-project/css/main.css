@@ -15,3 +15,10 @@ nav ul li {
     text-align: center; /* Center-align the text */
 }
 
+nav ul li {
+    display: block;
+    color:blanchedalmond;
+    padding: 10px 20px; ;
+    text-decoration: none;
+}
+
