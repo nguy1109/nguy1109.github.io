@@ -3,6 +3,10 @@ nav {
     background-color:black;
 }
 
+.cover {
+    background-color:black;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -15,10 +19,37 @@ nav ul li {
     text-align: center; /* Center-align the text */
 }
 
-nav ul li {
+nav ul li a {
     display: block;
     color:blanchedalmond;
     padding: 10px 20px; ; /* Padding around links */
     text-decoration: none; /* Remove underline from links */
 }
+
+form {
+    display: inline-block;
+    background-color: white;
+}
+
+
+.welcome {
+    position: relative;
+    display: inline-block; /* Ensures the container fits the content */
+}
+
+.welcome-text {
+    position: absolute;
+    top: 10px;
+    left: 10px; 
+    color: white;
+    background-color: rgba(0, 0, 0, 0.539);
+    padding: 5px;
+}
+
+.about-us {
+    background-color: rgb(255, 227, 124);
+}
+
+
+
 
