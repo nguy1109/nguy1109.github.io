@@ -9,3 +9,9 @@ nav ul {
     padding: 0;
 }
 
+/* Display list items vertically */
+nav ul li {
+    display: block;
+    text-align: center; /* Center-align the text */
+}
+
