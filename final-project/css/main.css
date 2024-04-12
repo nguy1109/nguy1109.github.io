@@ -50,17 +50,19 @@ form {
     display: flex; 
     flex-wrap: wrap;
     background-color: black;
-    padding: 20px; 
+
 }
 
 .search-wrapper input {
-    width: 90%;
+    width: 80%;
+    margin-left: 5%;
 }
 
 .search-wrapper i {
     border-style: solid;
     border-color: yellow;
     color: red;
+    margin-right: 5%;
 }
 
 
