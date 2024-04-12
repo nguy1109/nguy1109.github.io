@@ -3,6 +3,10 @@ nav {
     background-color:black;
 }
 
+h2 {
+    background-color: white;
+}
+
 .cover {
     background-color:black;
 }
@@ -50,6 +54,8 @@ form {
     background-color: rgb(255, 227, 124);
 }
 
-
+.our-services {
+    background-color: rgb(255, 227, 124);
+}
 
 
