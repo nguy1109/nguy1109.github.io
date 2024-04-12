@@ -18,7 +18,7 @@ nav ul li {
 nav ul li {
     display: block;
     color:blanchedalmond;
-    padding: 10px 20px; ;
-    text-decoration: none;
+    padding: 10px 20px; ; /* Padding around links */
+    text-decoration: none; /* Remove underline from links */
 }
 
