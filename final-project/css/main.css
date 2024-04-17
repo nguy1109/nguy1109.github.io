@@ -1,4 +1,3 @@
-/* this is a css comment */
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -83,7 +82,7 @@ nav ul li a {
     position: absolute;
     top: 100px;
     color: white;
-    background-color: rgba(0, 0, 0, 0.539);
+    background-color: rgba(0, 0, 0, 0.648);
     padding: 5px;
 }
 
@@ -173,6 +172,19 @@ nav ul li a {
     background-position: relative ;
 }
 
+
+.ourvision-wrapper {
+    position: relative;
+}
+
+.ourvision-text {
+    position: absolute;
+    top: 100px;
+    color: white;
+    padding: 5px;
+}
+
+
 .john-wrapper {
     background-color: #ffe6ac;
 }
@@ -181,6 +193,15 @@ nav ul li a {
     background-color: #ffe6ac;
 }
 
+.boreder-top {
+    border-top: 2px solid #c78c06 ; 
+    padding-bottom: 20px;
+}
+
+.text-padding {
+    padding-left: 20px;
+    padding-right: 20px;
+}
 .contact {
     width: 100%;
 }
