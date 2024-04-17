@@ -173,6 +173,14 @@ nav ul li a {
     background-position: relative ;
 }
 
+.john-wrapper {
+    background-color: #ffe6ac;
+}
+
+.bob-wrapper {
+    background-color: #ffe6ac;
+}
+
 .contact {
     width: 100%;
 }
