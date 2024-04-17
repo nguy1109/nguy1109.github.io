@@ -1,4 +1,8 @@
 /* this is a css comment */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .nav-wrapper {
     background-color:black;
 }
@@ -10,15 +14,11 @@
     text-align: center; /* center-align the text */
 }
 .nav-item:hover{
-    background-color: rgb(255, 204, 0);
+    background-color: #c78c06;
 }
 .home-nav:hover{
-    background-color: rgb(255, 204, 0);
+    background-color: #c78c06;
 }
-h2 {
-    background-color: white;
-}
-
 
 nav ul {
     list-style-type: none;
@@ -68,16 +68,36 @@ form {
 
 .welcome {
     position: relative;
-    display: inline-block; /* Ensures the container fits the content */
+    display: inline-block; /* the container fits the content */
+    width: 800px;
 }
 
 .welcome-text {
     position: absolute;
-    top: 10px;
+    top: 100px;
     left: 10px; 
     color: white;
     background-color: rgba(0, 0, 0, 0.539);
     padding: 5px;
+}
+
+.connectbutton-wrapper{
+    background-color: #c78c06;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    color: black;
+}
+.button-connect {
+    border: none;
+    background: none;
+}
+
+.main-banner {
+    display: block; /*the image takes up its full container's width */
+    width: 100%;
 }
 
 .about-us {
