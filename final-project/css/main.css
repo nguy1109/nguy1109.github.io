@@ -1,4 +1,14 @@
 /* this is a css comment */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+@media screen and (min-width: 760px) {
+    .container {
+        padding: 0 20px;}
+    /* Styles applied between 760px and above */
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -10,12 +20,15 @@ body {
 .home-nav{
     height: 140px;
 }
+
 .nav-item{
     text-align: center; /* center-align the text */
 }
+
 .nav-item:hover{
     background-color: #c78c06;
 }
+
 .home-nav:hover{
     background-color: #c78c06;
 }
@@ -34,7 +47,7 @@ nav ul li {
 
 nav ul li a {
     display: block;
-    color:blanchedalmond;
+    color:#c78c06;
     padding: 10px 20px; ; /* Padding around links */
     text-decoration: none; /* Remove underline from links */
 }
@@ -43,13 +56,15 @@ form {
     width: 100%;
     display: inline-block;
     background-color: white;
+    height: 35px;
 }
 
 .search-wrapper {
-    width: 100%;
+    /* width: 100%; */
     display: flex; 
     flex-wrap: wrap;
     background-color: black;
+    height: 33px;
 
 }
 
@@ -60,9 +75,9 @@ form {
 
 .search-wrapper i {
     border-style: solid;
-    border-color: yellow;
-    color: red;
-    margin-right: 5%;
+    border-color: #c78c06;
+    color: #c78c06;
+    width: 33px;
 }
 
 
