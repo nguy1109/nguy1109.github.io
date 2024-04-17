@@ -183,9 +183,7 @@ nav ul li a {
 
 .ourvisionimg {
     display: block;
-    width: 100%;
-    
-    
+    width: 100%; 
 }
 
 .john-wrapper {
@@ -241,3 +239,10 @@ footer {
     padding: 10px 10px 10px 10px;
 }
 
+h3 {
+    font-size: 30px;
+  }
+
+h2 {
+    font-size: 40px;
+}
