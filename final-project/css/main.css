@@ -48,7 +48,7 @@ nav ul li a {
     text-decoration: none; /* Remove underline from links */
 }
 
-form {
+.search-wrapper {
     width: 100%;
     display: inline-block;
     background-color: white;
@@ -101,6 +101,10 @@ form {
     background: none;
 }
 
+.full-width {
+    display: block;
+    width:100%;
+}
 
 .about-us {
     background-color: #ffe6ac;
@@ -136,7 +140,8 @@ form {
     justify-content: center;
     width: 200px;
     color: white;
-    }
+    margin-bottom: 20px;
+}
     
  .button {
     border: none;
@@ -144,7 +149,52 @@ form {
     color: white;
 }
 
+.button-learn-wrapper {
+    background-color: #222;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    color: white;
+    margin-bottom: 20px;
+    outline-color:#c78c06;
+    border: 3px solid #c78c06;
+}
 
+.button-learn {
+    border: none;
+    background: none;
+    color: white;
+}
+.digital {
+    display: block;
+    width: 200%;
+    background-position: relative ;
+}
 
+.contact {
+    width: 100%;
+}
 
+.send {
+    background-color: #222;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    color: #c78c06;
+    border: none;
+    margin-top: 10px;
+
+}
+.gmap {
+    width:100%
+}
+
+footer {
+    background-color: #222;
+    color:#c78c06;
+}
 
